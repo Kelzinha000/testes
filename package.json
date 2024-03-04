@@ -1,0 +1,28 @@
+{
+  "name": "convsersortemperaturajest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelzinha000/convsersorTemperaturaJest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kelzinha000/convsersorTemperaturaJest/issues"
+  },
+  "homepage": "https://github.com/Kelzinha000/convsersorTemperaturaJest#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}

@@ -1,4 +1,4 @@
-const calculo= require('./index');
+const calculo = requeire('./index');
 
 describe('Testa a função calculo', ()=>{
   test('Verificar se 40 em fahrenheit é 104')
